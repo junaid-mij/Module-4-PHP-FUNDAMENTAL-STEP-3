@@ -1,5 +1,6 @@
 <?php
 
+echo "1. Introduction to arrays: \n";
 //Intro of array:
 $arrayData = array(
     'Marajul',
