@@ -17,6 +17,8 @@ print_r($sortedStrings);
 
 //End 1st Question.
 echo PHP_EOL;
+
+
 /**
  * 2.Write a PHP function to concatenate two strings, but with the second string starting from the end of the first string.
  */
@@ -35,6 +37,8 @@ echo $newString;
 //End 2nd Question.
 echo PHP_EOL;
 echo PHP_EOL;
+
+
 /**
  * 3.Write a PHP function to remove the first and last element from an array and return the remaining elements as a new array.
  */
@@ -50,6 +54,8 @@ print_r($newArray);
 
 //End 3rd Question.
 echo PHP_EOL;
+
+
 /**
  * 4.Write a PHP function to check if a string contains only letters and whitespace.
  */
@@ -67,6 +73,8 @@ if (isLettersAndWhitespace($string1)) {
 //End 4th Question.
 echo PHP_EOL;
 echo PHP_EOL;
+
+
 /**
  * 5.Write a PHP function to find the second largest number in an array of numbers.
  */
